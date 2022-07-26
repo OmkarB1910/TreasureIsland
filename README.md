@@ -1,2 +1,2 @@
 # TreasureIsland
-a simple cosole game made using python.
+a simple cosole game made using python for practice.
